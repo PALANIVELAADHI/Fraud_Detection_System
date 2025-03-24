@@ -45,3 +45,5 @@ A machine learning-based web application to predict the likelihood of fraudulent
    ```bash
    git clone https://github.com/yourusername/fraud-detection-system.git
    cd fraud-detection-system
+2. **Create my_db using mysql**
+3.   **uvicorn app:app --reload** 
